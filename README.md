@@ -212,7 +212,7 @@ Các phương thức nên có tên động từ hoặc cụm động từ như p
 
 ### Chọn một từ cho mỗi khái niệm
 
-Chọn một từ cho một khái niệm trừu tượng và gắn bó với nó. Ví dụ, thật khó hiểu khi có các phương thức tìm nạp, truy xuất và nhận tương đương của các lớp khác nhau.
+Nguyên tắc này khuyến khích sự nhất quán trong việc sử dụng từ ngữ trong mã để làm cho mã dễ hiểu hơn và tránh sự nhầm lẫn.
 
 ## 3. Functions
 
