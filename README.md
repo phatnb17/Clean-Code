@@ -37,9 +37,7 @@ Problems:
  luật LeBlanc: Later equals never (Để sau có nghĩa là không bao giờ).
 
  Sẽ là thiếu chuyên nghiệp nếu các lập trình viên tuân theo ý muốn của
- những người quản lý không hiểu được những rủi ro khi gây
-
- ra tình trạng lộn xộn.
+ những người quản lý không hiểu được những rủi ro khi gây ra tình trạng lộn xộn.
 
  Có thể đôi khi bạn nghĩ phải đi thật nhanh để kịp thời hạn. Cách duy
  nhất để đi nhanh là giữ mã luôn sạch nhất có thể.
@@ -198,7 +196,7 @@ Tên gồm một chữ cái và hằng số có một vấn đề đặc biệt 
 
 ### Class Names
 
-Các lớp và đối tượng phải có tên 'danh từ' hoặc 'cụm danh từ' như Khách hàng, WikiPage, Tài khoản và Trình phân tích địa chỉ. Tên lớp không nên là một động từ.
+Các lớp và đối tượng phải có tên 'danh từ' hoặc 'cụm danh từ' như Customer, WikiPage, Account, and AddressParser. Tên lớp không nên là một động từ.
 
 ### Tên phương thức
 
